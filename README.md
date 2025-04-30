@@ -76,6 +76,6 @@
 
 
 <div align="center"> 
-  ![snake gif](https://github.com/wdinac/wdinac/blob/output/github-snake-dark.svg)
+  
 </div>
-
+![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg)
