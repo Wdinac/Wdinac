@@ -63,6 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40"/>          
 </div>
 
 ###
@@ -73,9 +74,8 @@
 
 ###
 
-<!-- Snake animation (opcional) -->
-<!--
+
 <div align="center"> 
   ![snake animation](https://github.com/WdIGG/WdIGG/blob/output/github-contribution-grid-snake2.svg)
 </div>
--->
+
