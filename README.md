@@ -5,11 +5,11 @@
 <h4 align="left">Opa! Tudo bom? Meu nome é Welliton e eu sou um amante de programação!</h4>
 
 <h4 align="left">
-🎓 Técnico em Desenvolvimento de Sistemas pela Etec Jacinto Ferreira de Sá  
-💻 Desenvolvedor focado em projetos educacionais, como o <strong>MedTriage</strong> e o <strong>NEURA</strong>  
-🛠️ Apaixonado por front-end, back-end, bancos de dados e tudo que envolve tecnologia  
-🎯 Buscando evoluir diariamente e transformar o mundo com código  
-🎧 Quando não estou programando, estou ouvindo música ou criando ideias malucas 😄  
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec Jacinto Ferreira de Sá  <br>
+💻 Desenvolvedor focado em projetos educacionais, como a <strong>NEURA</strong>  <br>
+🛠️ Apaixonado por front-end, back-end, bancos de dados e tudo que envolve tecnologia  <br>
+🎯 Buscando evoluir diariamente e transformar o mundo com código  <br>
+🎧 Quando não estou programando, estou ouvindo música ou criando ideias malucas 😄  <br>
 </h4>
 
 ###
