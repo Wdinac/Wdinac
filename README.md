@@ -9,7 +9,7 @@
 💻 Desenvolvedor focado em projetos educacionais, como a <strong>NEURA</strong>  <br>
 🛠️ Apaixonado por front-end, back-end, bancos de dados e tudo que envolve tecnologia  <br>
 🎯 Buscando evoluir diariamente e transformar o mundo com código  <br>
-🎧 Quando não estou programando, estou ouvindo música ou criando ideias malucas 😄  <br>
+🎧 Quando não estou programando, estou ouvindo música, jogando ou criando ideias malucas 😄  <br>
 </h4>
 
 ###
