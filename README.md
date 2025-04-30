@@ -76,6 +76,6 @@
 
 
 <div align="center"> 
-  ![snake animation](https://github.com/WdIGG/WdIGG/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://github.com/wdinac/wdinac/blob/output/github-contribution-grid-snake.svg)
 </div>
 
