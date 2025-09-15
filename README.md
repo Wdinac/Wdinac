@@ -42,7 +42,7 @@
 <h4 align="left">💻 Programming Languages</h4>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,php,java,py,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,php,java,py,js,ts,tailwind" />
 </div>
 
 ###
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img src="https://skillicons.dev/icons?i=postgres,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=,react,vite,postgres,nodejs,postman,figma" />
 </div>
 
 ###
