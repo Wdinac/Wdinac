@@ -53,8 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img src="https://skillicons.dev/icons?i=,react,vite,postgres,nodejs,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=react,vite,postgres,nodejs,postman,figma" />
 </div>
 
 ###
