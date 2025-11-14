@@ -1,22 +1,12 @@
-<h1 align="center">Hello World 👋</h1>
+![](https://camo.githubusercontent.com/0158d6e217164cceb12768300940ed8c595f2c88f3e4ab92ca9b6d9527619d09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d353841364646266865696768743d3132302673656374696f6e3d686561646572?align=center)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Wd)](https://git.io/typing-svg)
 ###
 
-<h4 align="left">Opa! Tudo bom? Meu nome é Welliton e eu sou um amante de programação!</h4>
+<h1>About Me</h1>
+--
 
-<h4 align="left">
-🎓 Técnico em Desenvolvimento de Sistemas pela Etec Jacinto Ferreira de Sá  <br>
-💻 Desenvolvedor focado em projetos educacionais, como a <strong>NEURA</strong>  <br>
-🛠️ Apaixonado por front-end, back-end, bancos de dados e tudo que envolve tecnologia  <br>
-🎯 Buscando evoluir diariamente e transformar o mundo com código  <br>
-🎧 Quando não estou programando, estou ouvindo música, jogando ou criando ideias malucas 😄  <br>
-</h4>
-
-###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
-
-###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
 
 <div align="left">
   <a href="https://www.instagram.com/wdinac/" target="_blank">
@@ -32,8 +22,9 @@
 
 ###
 
-![WdIGG GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdinac&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&layout=compact&theme=tokyonight)](https://github.com/wdinac/github-readme-stats)
+![WdIGG GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdinac&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=wdinac&theme=react&hide_border=true)
 
 ###
 
