@@ -1,8 +1,8 @@
 ![](https://camo.githubusercontent.com/0158d6e217164cceb12768300940ed8c595f2c88f3e4ab92ca9b6d9527619d09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d353841364646266865696768743d3132302673656374696f6e3d686561646572?align=center)
 
-<div align=center>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Wd)](https://git.io/typing-svg)
+
+<div align=center>
 
   <h1>About Me</h1>
   <a href="https://www.instagram.com/wdinac/" target="_blank">
