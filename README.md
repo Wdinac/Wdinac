@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://streak-stats.demolab.com?user=wdinac&theme=react&hide_border=true)
 
-[![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://)
+[![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://portfolio-ws99.vercel.app/)
 
 </div>
 
