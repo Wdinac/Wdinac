@@ -27,38 +27,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://streak-stats.demolab.com?user=wdinac&theme=react&hide_border=true)
 
-</div>
+[![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://)
 
-<h3 align="left">🔥 Skills</h3>
-
-<h4 align="left">💻 Programming Languages</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,php,java,py,js,ts,tailwind" />
-</div>
-
-###
-
-<h4 align="left">🛠️ Tools & Frameworks</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
-  <img src="https://skillicons.dev/icons?i=react,vite,postgres,nodejs,postman,figma" />
-</div>
-
-###
-
-<h4 align="left">📚 Portfólio</h4>
-
-- Em breve...
-
-###
-
-
-<div align="center"> 
-  
 </div>
 
 ![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg)
