@@ -31,4 +31,4 @@
 
 </div>
 
-![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg)
+<?-![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg) ?>
