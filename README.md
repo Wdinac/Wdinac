@@ -25,9 +25,8 @@
   
 ![WdIGG GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdinac&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wdinac&theme=react&show_icons=true&hide_border=true)
 
-
+<img src="wakatime/stats.svg" height=320/>
 
 [![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://portfolio-ws99.vercel.app/)
 
