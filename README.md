@@ -22,7 +22,7 @@
 <br><br><br>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
-  
+
 ![WdIGG GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdinac&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
 
@@ -32,4 +32,4 @@
 
 </div>
 
-<?-![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg) ?>
+![snake gif](https://github.com/Wdinac/Wdinac/blob/output/github-snake-dark.svg)
