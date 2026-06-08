@@ -30,6 +30,7 @@
 <br>
 <img src="wakatime/all_langs.svg?v=20260608" height=300/>
 <img src="wakatime/all_projs.svg?v=20260608" height=300/>
+<?- <img src="wakatime/weekly_avg.svg?v=20260608" height=300/> 
 
 [![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://portfolio-ws99.vercel.app/)
 
