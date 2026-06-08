@@ -27,6 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdinac&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <img src="wakatime/stats.svg?v=20260608" height=300/>
+<img src="wakatime/radar.svg?v=20260608" height=300/>
 
 [![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://portfolio-ws99.vercel.app/)
 
