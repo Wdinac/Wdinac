@@ -35,9 +35,16 @@ jobs:
 
           sed -i -E "s#(wakatime/stats\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
           sed -i -E "s#(wakatime/stats\.svg)(\"|')#\1?v=$V\2#g" README.md
+
+      - name: Bump README cache-buster for wakatime/stats.svg (daily)
+        run: |
+          set -euo pipefail
+
+          V="$(date -u +%Y%m%d)"  # changes once per day
+          
           sed -i -E "s#(wakatime/heatmap\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
           sed -i -E "s#(wakatime/heatmap\.svg)(\"|')#\1?v=$V\2#g" README.md
-
+    
       - name: Commit changes to repo
         run: |
           set -euo pipefail
