@@ -24,8 +24,10 @@ jobs:
           mkdir -p wakatime
           curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_mode=stats" \
             -o wakatime/stats.svg
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_chart_type=radar" \
-            -o wakatime/radar.svg
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_type=all_projs" \
+            -o wakatime/all_projs.svg
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_type=all_langs" \
+            -o wakatime/all_langs.svg
 
       - name: Bump README cache-buster for wakatime/stats.svg (daily)
         run: |
@@ -36,14 +38,23 @@ jobs:
           sed -i -E "s#(wakatime/stats\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
           sed -i -E "s#(wakatime/stats\.svg)(\"|')#\1?v=$V\2#g" README.md
 
-      - name: Bump README cache-buster for wakatime/radar.svg (daily)
+      - name: Bump README cache-buster for wakatime/all_projs.svg (daily)
         run: |
           set -euo pipefail
 
           V="$(date -u +%Y%m%d)"  # changes once per day
           
-          sed -i -E "s#(wakatime/radar\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
-          sed -i -E "s#(wakatime/radar\.svg)(\"|')#\1?v=$V\2#g" README.md
+          sed -i -E "s#(wakatime/all_projs\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
+          sed -i -E "s#(wakatime/all_projs\.svg)(\"|')#\1?v=$V\2#g" README.md
+
+      - name: Bump README cache-buster for wakatime/all_langs.svg (daily)
+        run: |
+          set -euo pipefail
+
+          V="$(date -u +%Y%m%d)"  # changes once per day
+          
+          sed -i -E "s#(wakatime/all_langs\.svg)\?v=[0-9]+#\1?v=$V#g" README.md
+          sed -i -E "s#(wakatime/all_langs\.svg)(\"|')#\1?v=$V\2#g" README.md
     
       - name: Commit changes to repo
         run: |
@@ -52,7 +63,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add wakatime/stats.svg README.md
-          git add wakatime/radar.svg README.md
+          git add wakatime/all_projs.svg README.md
+          git add wakatime/all_langs.svg README.md
           git diff --cached --quiet && echo "No changes" && exit 0
 
           git commit -m "Update WakaTime stats SVG (cache-bust v=$(date -u +%Y%m%d))"
