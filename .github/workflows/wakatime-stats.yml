@@ -22,7 +22,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p wakatime
-          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_mode=stats&component2_type=all_projs&component3_type=all_langs&component4_type=weekly_avg&component_chart_type=radar" \
+          curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_mode=stats" \
             -o wakatime/stats.svg
           curl -fsSL "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=wdinac&api_key=$WAKATIME_API_KEY&github_token=$GITHUB_TOKEN&theme=dark_github&component1_type=all_projs" \
             -o wakatime/all_projs.svg
