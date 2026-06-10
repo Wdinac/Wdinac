@@ -42,8 +42,8 @@
 <rect x="75" y="238.5" width="2.4158660134085803" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="83.41586601340857" y="247.5" font-size="9" fill="#c9d1d9">15m    |    0.5%</text>
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSS</text>
-<rect x="75" y="262.5" width="1.7501130759925412" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.75011307599254" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.4%</text>
+<rect x="75" y="262.5" width="1.7620347580025886" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="82.76203475800259" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.4%</text>
       <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 50 hrs 3 mins</text>
     </g>
 </svg>
