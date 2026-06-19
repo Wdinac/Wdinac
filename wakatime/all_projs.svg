@@ -16,16 +16,16 @@
       <text font-family="Calibri" x="300" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code for UniBus</text>
       <text font-family="Calibri" x="122" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">UniBus</text>
 <rect x="130" y="46.5" width="400" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="536" y="55.5" font-size="9" fill="#c9d1d9">16:48    |    32.7%</text>
+<text font-family="Calibri" x="536" y="55.5" font-size="9" fill="#c9d1d9">16:48    |    32.5%</text>
 <text font-family="Calibri" x="122" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">marquinho-obras</text>
 <rect x="130" y="70.5" width="272.2346869265337" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="408.2346869265337" y="79.5" font-size="9" fill="#c9d1d9">11:26    |    22.2%</text>
+<text font-family="Calibri" x="408.2346869265337" y="79.5" font-size="9" fill="#c9d1d9">11:26    |    22.1%</text>
 <text font-family="Calibri" x="122" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">unibus-frontend</text>
-<rect x="130" y="94.5" width="202.6454075525435" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="338.6454075525435" y="103.5" font-size="9" fill="#c9d1d9">08:31    |    16.5%</text>
+<rect x="130" y="94.5" width="205.8783155615057" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="341.8783155615057" y="103.5" font-size="9" fill="#c9d1d9">08:39    |    16.7%</text>
 <text font-family="Calibri" x="122" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">unibus-backend</text>
-<rect x="130" y="118.5" width="188.35158099295884" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="324.3515809929588" y="127.5" font-size="9" fill="#c9d1d9">07:55    |    15.4%</text>
+<rect x="130" y="118.5" width="192.65746361413863" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="328.65746361413863" y="127.5" font-size="9" fill="#c9d1d9">08:05    |    15.6%</text>
 <text font-family="Calibri" x="122" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">orbit</text>
 <rect x="130" y="142.5" width="87.26715006566647" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="223.26715006566647" y="151.5" font-size="9" fill="#c9d1d9">03:40    |    7.1%</text>
@@ -43,7 +43,7 @@
 <text font-family="Calibri" x="142.61174442471173" y="247.5" font-size="9" fill="#c9d1d9">16m    |    0.5%</text>
 <text font-family="Calibri" x="122" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">backend</text>
 <rect x="130" y="262.5" width="5.539708258840024" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="141.53970825884002" y="271.5" font-size="9" fill="#c9d1d9">13m    |    0.5%</text>
-      <text font-family="Calibri" x="300" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 52 hrs 34 mins</text>
+<text font-family="Calibri" x="141.53970825884002" y="271.5" font-size="9" fill="#c9d1d9">13m    |    0.4%</text>
+      <text font-family="Calibri" x="300" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 52 hrs 53 mins</text>
     </g>
 </svg>
