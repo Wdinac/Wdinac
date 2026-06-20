@@ -16,34 +16,34 @@
       <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in TypeScript</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">39:49    |    75.9%</text>
+<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">40:03    |    76.0%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">Prisma</text>
-<rect x="75" y="70.5" width="46.842015424117754" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="127.84201542411776" y="79.5" font-size="9" fill="#c9d1d9">05:29    |    10.5%</text>
+<rect x="75" y="70.5" width="46.55619373825647" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="127.55619373825647" y="79.5" font-size="9" fill="#c9d1d9">05:29    |    10.4%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
-<rect x="75" y="94.5" width="19.020783711182442" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="100.02078371118245" y="103.5" font-size="9" fill="#c9d1d9">02:13    |    4.2%</text>
+<rect x="75" y="94.5" width="18.9047222561509" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="99.9047222561509" y="103.5" font-size="9" fill="#c9d1d9">02:13    |    4.2%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Bash</text>
-<rect x="75" y="118.5" width="12.351520448538643" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="93.35152044853865" y="127.5" font-size="9" fill="#c9d1d9">01:26    |    2.8%</text>
+<rect x="75" y="118.5" width="12.276153657302464" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="93.27615365730246" y="127.5" font-size="9" fill="#c9d1d9">01:26    |    2.7%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">JSON</text>
-<rect x="75" y="142.5" width="9.345476152967375" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="90.34547615296738" y="151.5" font-size="9" fill="#c9d1d9">01:05    |    2.1%</text>
+<rect x="75" y="142.5" width="9.288451711874641" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="90.28845171187464" y="151.5" font-size="9" fill="#c9d1d9">01:05    |    2.1%</text>
 <text font-family="Calibri" x="67" y="175.5" font-size="10" text-anchor="end" fill="#c9d1d9">TSConfig</text>
-<rect x="75" y="166.5" width="6.380705552950557" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="87.38070555295056" y="175.5" font-size="9" fill="#c9d1d9">44m    |    1.4%</text>
+<rect x="75" y="166.5" width="6.341771617217516" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="87.34177161721752" y="175.5" font-size="9" fill="#c9d1d9">44m    |    1.4%</text>
 <text font-family="Calibri" x="67" y="199.5" font-size="10" text-anchor="end" fill="#c9d1d9">Git Config</text>
-<rect x="75" y="190.5" width="5.572359241171882" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="86.57235924117188" y="199.5" font-size="9" fill="#c9d1d9">39m    |    1.2%</text>
+<rect x="75" y="190.5" width="5.538357691534964" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="86.53835769153497" y="199.5" font-size="9" fill="#c9d1d9">39m    |    1.2%</text>
 <text font-family="Calibri" x="67" y="223.5" font-size="10" text-anchor="end" fill="#c9d1d9">Markdown</text>
-<rect x="75" y="214.5" width="4.478951422633549" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="85.47895142263354" y="223.5" font-size="9" fill="#c9d1d9">31m    |    1.0%</text>
+<rect x="75" y="214.5" width="4.451621653943691" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="85.45162165394369" y="223.5" font-size="9" fill="#c9d1d9">31m    |    1.0%</text>
 <text font-family="Calibri" x="67" y="247.5" font-size="10" text-anchor="end" fill="#c9d1d9">JavaScript</text>
-<rect x="75" y="238.5" width="2.2566803978695122" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="83.25668039786952" y="247.5" font-size="9" fill="#c9d1d9">15m    |    0.5%</text>
+<rect x="75" y="238.5" width="2.2429105335729163" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="83.24291053357291" y="247.5" font-size="9" fill="#c9d1d9">15m    |    0.5%</text>
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSS</text>
-<rect x="75" y="262.5" width="1.6459312216321564" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="82.64593122163215" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.4%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 52 hrs 53 mins</text>
+<rect x="75" y="262.5" width="1.63588804069045" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="82.63588804069045" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.4%</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 53 hrs 8 mins</text>
     </g>
 </svg>
