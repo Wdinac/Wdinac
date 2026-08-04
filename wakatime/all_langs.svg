@@ -16,16 +16,16 @@
         <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in TypeScript</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">42:05    |    65.4%</text>
+<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">42:05    |    65.3%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">Prisma</text>
 <rect x="75" y="70.5" width="48.68548035104094" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="129.68548035104095" y="79.5" font-size="9" fill="#c9d1d9">06:01    |    9.4%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">Bash</text>
 <rect x="75" y="94.5" width="37.69634397493591" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="118.6963439749359" y="103.5" font-size="9" fill="#c9d1d9">04:40    |    7.3%</text>
+<text font-family="Calibri" x="118.6963439749359" y="103.5" font-size="9" fill="#c9d1d9">04:40    |    7.2%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">JavaScript</text>
-<rect x="75" y="118.5" width="35.550649930402095" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="116.5506499304021" y="127.5" font-size="9" fill="#c9d1d9">04:24    |    6.8%</text>
+<rect x="75" y="118.5" width="36.65650878669464" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="117.65650878669464" y="127.5" font-size="9" fill="#c9d1d9">04:32    |    7.0%</text>
 <text font-family="Calibri" x="67" y="151.5" font-size="10" text-anchor="end" fill="#c9d1d9">Python</text>
 <rect x="75" y="142.5" width="30.70243045367278" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="111.70243045367278" y="151.5" font-size="9" fill="#c9d1d9">03:48    |    5.9%</text>
@@ -44,6 +44,6 @@
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSS</text>
 <rect x="75" y="262.5" width="1.6105511794000293" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="82.61055117940003" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.3%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 64 hrs 46 mins</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 64 hrs 55 mins</text>
       </g>
 </svg>
