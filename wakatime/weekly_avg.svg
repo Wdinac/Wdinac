@@ -25,7 +25,7 @@
 <line x1="181.5" y1="141.20588235294116" x2="144.30996521849502" y2="218.43178531600566" stroke="#515961" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="97.93475038441511" y2="160.2791052634824" stroke="#515961" stroke-width="0.5"/>
 <line x1="181.5" y1="141.20588235294116" x2="114.48587293131172" y2="87.76389933647829" stroke="#515961" stroke-width="0.5"/>
-<polygon points="181.5,83.21042746563577 225.8540891388024,105.8346765766282 221.55707008105702,150.34864720213133 208.69223161484658,197.6711331217208 173.90849561135303,156.96980364813936 139.9925778129755,150.67968060588643 114.48587293131172,87.76389933647829" fill="#58a6ff" fill-opacity="0.2" stroke="#58a6ff" stroke-width="2"/>
+<polygon points="181.5,83.21042746563577 227.0213020011151,104.90385537977255 221.55707008105702,150.34864720213133 208.69223161484658,197.6711331217208 174.10314955618136,156.56560056677617 141.05687068660092,150.4367627026415 114.48587293131172,87.76389933647829" fill="#58a6ff" fill-opacity="0.2" stroke="#58a6ff" stroke-width="2"/>
 <text x="181.5" y="43.49159663865544" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#c9d1d9">Mon</text>
 <text x="257.8961048583046" y="80.28202171417348" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#c9d1d9">Tue</text>
 <text x="276.76438456176675" y="162.94935647095818" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#c9d1d9">Wed</text>
@@ -46,9 +46,9 @@
                 <text x="207.5" y="276.5" font-size="10" font-weight="bold" fill="#c9d1d9">
                   Tue:
                 </text>
-                <rect x="255.5" y="266.5" width="63" height="14" fill="#58a6ff" fill-opacity="0.50" />
+                <rect x="255.5" y="266.5" width="63" height="14" fill="#58a6ff" fill-opacity="0.51" />
                 <text x="287" y="277.5" font-size="9" text-anchor="middle" fill="#c9d1d9">
-                  15m (15.6%)
+                  16m (16.0%)
                 </text>
               
 
@@ -75,16 +75,16 @@
                 </text>
                 <rect x="75.5" y="314.5" width="63" height="14" fill="#58a6ff" fill-opacity="0.22" />
                 <text x="107" y="325.5" font-size="9" text-anchor="middle" fill="#c9d1d9">
-                  04m (4.8%)
+                  04m (4.7%)
                 </text>
               
 
                 <text x="207.5" y="324.5" font-size="10" font-weight="bold" fill="#c9d1d9">
                   Sat:
                 </text>
-                <rect x="255.5" y="314.5" width="63" height="14" fill="#58a6ff" fill-opacity="0.40" />
+                <rect x="255.5" y="314.5" width="63" height="14" fill="#58a6ff" fill-opacity="0.39" />
                 <text x="287" y="325.5" font-size="9" text-anchor="middle" fill="#c9d1d9">
-                  11m (11.7%)
+                  11m (11.4%)
                 </text>
               
 
