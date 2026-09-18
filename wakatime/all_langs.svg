@@ -16,13 +16,13 @@
         <text font-family="Calibri" x="245" y="22.5" font-size="12" text-anchor="middle" fill="#c9d1d9" font-weight="bold">I mostly code in TypeScript</text>
       <text font-family="Calibri" x="67" y="55.5" font-size="10" text-anchor="end" fill="#c9d1d9">TypeScript</text>
 <rect x="75" y="46.5" width="340" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">42:08    |    64.7%</text>
+<text font-family="Calibri" x="421" y="55.5" font-size="9" fill="#c9d1d9">42:08    |    64.6%</text>
 <text font-family="Calibri" x="67" y="79.5" font-size="10" text-anchor="end" fill="#c9d1d9">Prisma</text>
 <rect x="75" y="70.5" width="48.62565592458792" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="129.62565592458793" y="79.5" font-size="9" fill="#c9d1d9">06:01    |    9.2%</text>
 <text font-family="Calibri" x="67" y="103.5" font-size="10" text-anchor="end" fill="#c9d1d9">JavaScript</text>
-<rect x="75" y="94.5" width="41.26754880112022" height="12" fill="#58a6ff" rx="2" ry="2" />
-<text font-family="Calibri" x="122.26754880112023" y="103.5" font-size="9" fill="#c9d1d9">05:06    |    7.8%</text>
+<rect x="75" y="94.5" width="41.52214414644112" height="12" fill="#58a6ff" rx="2" ry="2" />
+<text font-family="Calibri" x="122.52214414644112" y="103.5" font-size="9" fill="#c9d1d9">05:08    |    7.9%</text>
 <text font-family="Calibri" x="67" y="127.5" font-size="10" text-anchor="end" fill="#c9d1d9">Bash</text>
 <rect x="75" y="118.5" width="38.41342126981277" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="119.41342126981277" y="127.5" font-size="9" fill="#c9d1d9">04:45    |    7.3%</text>
@@ -44,6 +44,6 @@
 <text font-family="Calibri" x="67" y="271.5" font-size="10" text-anchor="end" fill="#c9d1d9">CSS</text>
 <rect x="75" y="262.5" width="1.6085721437638167" height="12" fill="#58a6ff" rx="2" ry="2" />
 <text font-family="Calibri" x="82.60857214376382" y="271.5" font-size="9" fill="#c9d1d9">11m    |    0.3%</text>
-      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 65 hrs 38 mins</text>
+      <text font-family="Calibri" x="245" y="306.5" font-size="12" text-anchor="middle" fill="#c9d1d9"><tspan font-weight="bold">Total:</tspan> 65 hrs 40 mins</text>
       </g>
 </svg>
