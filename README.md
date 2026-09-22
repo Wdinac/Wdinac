@@ -21,7 +21,7 @@
 <div align=center>
 <br><br><br>
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
 <!--
 <img src="wakatime/stats.svg?v=20260922" height=200/>
 <br>
