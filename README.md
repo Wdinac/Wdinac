@@ -23,11 +23,11 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wdigamer&redirect=true)
 <!--
-<img src="wakatime/stats.svg?v=20260923" height=200/>
+<img src="wakatime/stats.svg?v=20260924" height=200/>
 <br>
-<img src="wakatime/all_langs.svg?v=20260923" height=350/>
-<img src="wakatime/all_projs.svg?v=20260923" height=350/>
-<?- <img src="wakatime/weekly_avg.svg?v=20260923" height=300/> 
+<img src="wakatime/all_langs.svg?v=20260924" height=350/>
+<img src="wakatime/all_projs.svg?v=20260924" height=350/>
+<?- <img src="wakatime/weekly_avg.svg?v=20260924" height=300/> 
 -->
 [![Portfolio](https://img.shields.io/badge/CHECK_HERE_MY_PERSONAL_PORTFOLIO-blue?style=for-the-badge)](https://portfolio-ws99.vercel.app/)
 
